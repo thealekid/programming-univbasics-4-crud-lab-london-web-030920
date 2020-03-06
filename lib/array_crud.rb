@@ -27,8 +27,8 @@ end
 
 def remove_element_from_start_of_array(array)
   furniture = ["couch","table","drawers","bed"]
-  lil_bub = famous_cats.shift
-  p famous_cats
+  couch = furniture.shift
+  p 
   p lil_bub
 end
 
