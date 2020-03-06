@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   furniture = ["couch","table","drawers","bed"]
-  furniture.push("vase")
+  furniture.push("arrays!")
   p furniture
 end
 
