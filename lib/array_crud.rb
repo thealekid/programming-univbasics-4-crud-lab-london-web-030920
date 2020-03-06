@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   furniture = ["couch","table","drawers","bed"]
-  bed_furniture = 
+  bed_furniture = furniture
   p furniture
 end
 
