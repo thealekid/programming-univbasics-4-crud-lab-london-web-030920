@@ -27,6 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+  lil_bub = famous_cats.shift
   
 end
 
