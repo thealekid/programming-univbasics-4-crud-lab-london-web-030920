@@ -14,7 +14,8 @@ end
 
 def add_element_to_start_of_array(array, element)
   furniture = ["couch","table","drawers","bed"]
-  furniture.unshift("")
+  furniture.unshift("wow")
+  p furniture
 end
 
 def remove_element_from_end_of_array(array)
