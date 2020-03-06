@@ -28,8 +28,8 @@ end
 def remove_element_from_start_of_array(array)
   furniture = ["couch","table","drawers","bed"]
   couch = furniture.shift
-  p 
-  p lil_bub
+  p furniture
+  p couch
 end
 
 def retrieve_element_from_index(array, index_number)
