@@ -13,7 +13,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  furniture = ["couch","table","drawers","bed"]
+  v
   furniture.unshift("wow")
   p furniture
 end
@@ -26,9 +26,10 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+  furniture = ["couch","table","drawers","bed"]
   lil_bub = famous_cats.shift
   p famous_cats
+  p lil_bub
 end
 
 def retrieve_element_from_index(array, index_number)
